@@ -1,0 +1,417 @@
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Information: Updating graph... (UID-83)
+Warning: Design 'fpu_double' contains 7 high-fanout nets. A fanout number of 1000 will be used for delay calculations involving these nets. (TIM-134)
+Information: Timing loop detected. (OPT-150)
+	i_fpu_div/count_out_reg[0]/enable i_fpu_div/count_out_reg[0]/Q i_fpu_div/C210/A i_fpu_div/C210/Z i_fpu_div/I_0/A i_fpu_div/I_0/Z i_fpu_div/I_23/A i_fpu_div/I_23/Z i_fpu_div/C17722/DATA2_0 i_fpu_div/C17722/Z_0 i_fpu_div/C17724/DATA2_0 i_fpu_div/C17724/Z_0 i_fpu_div/C17726/DATA1_0 i_fpu_div/C17726/Z_0 
+Information: Timing loop detected. (OPT-150)
+	i_fpu_div/count_out_reg[1]/enable i_fpu_div/count_out_reg[1]/Q i_fpu_div/C209/A i_fpu_div/C209/Z i_fpu_div/C210/B i_fpu_div/C210/Z i_fpu_div/I_0/A i_fpu_div/I_0/Z i_fpu_div/I_23/A i_fpu_div/I_23/Z i_fpu_div/C17722/DATA2_0 i_fpu_div/C17722/Z_0 i_fpu_div/C17724/DATA2_0 i_fpu_div/C17724/Z_0 i_fpu_div/C17726/DATA1_0 i_fpu_div/C17726/Z_0 
+Warning: Disabling timing arc between pins 'DATA1_0' and 'Z_0' on cell 'i_fpu_div/C17726'
+         to break a timing loop. (OPT-314)
+ 
+****************************************
+Report : reference
+Design : fpu_double
+Version: O-2018.06-SP5
+Date   : Fri Jan 29 18:38:35 2021
+****************************************
+
+Attributes:
+    b - black box (unknown)
+   bo - allows boundary optimization
+    d - dont_touch
+   mo - map_only
+    h - hierarchical
+    n - noncombinational
+    r - removable
+    s - synthetic operator
+    u - contains unmapped logic
+
+Reference          Library       Unit Area   Count    Total Area   Attributes
+-----------------------------------------------------------------------------
+**SEQGEN**                        0.000000     366      0.000000  n, u
+*ADD_UNS_OP_7_1_7                 0.000000       1      0.000000  s, u
+*LEQ_UNS_OP_7_7_1                 0.000000       1      0.000000  s, u
+*SELECT_OP_2.1_2.1_1              0.000000      32      0.000000  s, u
+*SELECT_OP_2.2_2.1_2              0.000000       3      0.000000  s, u
+*SELECT_OP_2.3_2.1_3              0.000000       1      0.000000  s, u
+*SELECT_OP_2.4_2.1_4              0.000000       1      0.000000  s, u
+*SELECT_OP_2.5_2.1_5              0.000000       2      0.000000  s, u
+*SELECT_OP_2.7_2.1_7              0.000000       2      0.000000  s, u
+*SELECT_OP_2.11_2.1_11            0.000000       2      0.000000  s, u
+*SELECT_OP_2.12_2.1_12            0.000000       5      0.000000  s, u
+*SELECT_OP_2.56_2.1_56            0.000000       7      0.000000  s, u
+*SELECT_OP_2.64_2.1_64            0.000000       4      0.000000  s, u
+GTECH_AND2         gtech          0.000000      13      0.000000  u
+GTECH_BUF          gtech          0.000000      24      0.000000  u
+GTECH_NOT          gtech          0.000000      21      0.000000  u
+GTECH_OR2          gtech          0.000000      23      0.000000  u
+GTECH_XOR2         gtech          0.000000       4      0.000000  u
+fpu_add                           0.000000       1      0.000000  h, n, u
+fpu_div                           0.000000       1      0.000000  h, n, u
+fpu_exceptions                    0.000000       1      0.000000  h, n, u
+fpu_mul                           0.000000       1      0.000000  h, n, u
+fpu_round                         0.000000       1      0.000000  h, n, u
+fpu_sub                           0.000000       1      0.000000  h, n, u
+-----------------------------------------------------------------------------
+Total 24 references                                     0.000000
+1
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Error: Could not read the following target libraries:
+NangateOpenCellLibrary.v 
+ (UIO-3)
+Information: Checking out the license 'DesignWare'. (SEC-104)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Information: The cache entry '/localhome/escmc27/synopsys_cache_O-2018.06-SP5/DW01/DW_rightsh/astr/56/11/generic_5019/8167_8167/mapped.ddc'
+	has been corrupted, so it is being removed. (DWSC-18)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Information: The cache entry '/localhome/escmc27/synopsys_cache_O-2018.06-SP5/DW01/DW_rightsh/astr/55/11/generic_5019/8167_8167/mapped.ddc'
+	has been corrupted, so it is being removed. (DWSC-18)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Information: The cache entry '/localhome/escmc27/synopsys_cache_O-2018.06-SP5/DW01/DW_leftsh/astr/55/11/generic_5019/8167_8167/mapped.ddc'
+	has been corrupted, so it is being removed. (DWSC-18)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Information: The cache entry '/localhome/escmc27/synopsys_cache_O-2018.06-SP5/DW01/DW_leftsh/astr/55/6/generic_5019/8167_8167/mapped.ddc'
+	has been corrupted, so it is being removed. (DWSC-18)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Information: The cache entry '/localhome/escmc27/synopsys_cache_O-2018.06-SP5/DW02/DW02_mult/apparch/24/17/generic_5019/8167_8167/mapped.ddc'
+	has been corrupted, so it is being removed. (DWSC-18)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Information: The cache entry '/localhome/escmc27/synopsys_cache_O-2018.06-SP5/DW02/DW02_mult/apparch/24/2/generic_5019/8167_8167/mapped.ddc'
+	has been corrupted, so it is being removed. (DWSC-18)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Information: The cache entry '/localhome/escmc27/synopsys_cache_O-2018.06-SP5/DW02/DW02_mult/apparch/17/17/generic_5019/8167_8167/mapped.ddc'
+	has been corrupted, so it is being removed. (DWSC-18)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Information: The cache entry '/localhome/escmc27/synopsys_cache_O-2018.06-SP5/DW02/DW02_mult/apparch/17/19/generic_5019/8167_8167/mapped.ddc'
+	has been corrupted, so it is being removed. (DWSC-18)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Information: The cache entry '/localhome/escmc27/synopsys_cache_O-2018.06-SP5/DW02/DW02_mult/apparch/12/17/generic_5019/8167_8167/mapped.ddc'
+	has been corrupted, so it is being removed. (DWSC-18)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Information: The cache entry '/localhome/escmc27/synopsys_cache_O-2018.06-SP5/DW02/DW02_mult/apparch/12/19/generic_5019/8167_8167/mapped.ddc'
+	has been corrupted, so it is being removed. (DWSC-18)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Information: The cache entry '/localhome/escmc27/synopsys_cache_O-2018.06-SP5/DW01/DW_rightsh/astr/106/12/generic_5019/8167_8167/mapped.ddc'
+	has been corrupted, so it is being removed. (DWSC-18)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Information: The cache entry '/localhome/escmc27/synopsys_cache_O-2018.06-SP5/DW01/DW_leftsh/astr/106/6/generic_5019/8167_8167/mapped.ddc'
+	has been corrupted, so it is being removed. (DWSC-18)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Information: The cache entry '/localhome/escmc27/synopsys_cache_O-2018.06-SP5/DW01/DW_leftsh/astr/106/12/generic_5019/8167_8167/mapped.ddc'
+	has been corrupted, so it is being removed. (DWSC-18)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Information: The cache entry '/localhome/escmc27/synopsys_cache_O-2018.06-SP5/DW01/DW_leftsh/astr/108/12/generic_5019/8167_8167/mapped.ddc'
+	has been corrupted, so it is being removed. (DWSC-18)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Information: The cache entry '/localhome/escmc27/synopsys_cache_O-2018.06-SP5/DW01/DW_leftsh/astr/52/6/generic_5019/8167_8167/mapped.ddc'
+	has been corrupted, so it is being removed. (DWSC-18)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Information: The cache entry '/localhome/escmc27/synopsys_cache_O-2018.06-SP5/DW01/DW_rightsh/astr/52/12/generic_5019/8167_8167/mapped.ddc'
+	has been corrupted, so it is being removed. (DWSC-18)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Warning: Can't read link_library file 'NangateOpenCellLibrary.v'. (UID-3)
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Loading db file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v'
+Error: File is not a DB file. (DB-1)
+Error: The file '/CMC/setups/ensc450/SOCLAB/LIBRARIES/NangateOpenCellLibrary_PDKv1_3_v2010_12/Front_End/Verilog/NangateOpenCellLibrary.v' is not a DB file.
+Information: Updating design information... (UID-85)
+Warning: Design 'fpu_double' contains 7 high-fanout nets. A fanout number of 1000 will be used for delay calculations involving these nets. (TIM-134)
+Information: Timing loop detected. (OPT-150)
+	lte_163/*cell*29/UA/B lte_163/*cell*29/UA/Z lte_163/*cell*29/ULTI0/A lte_163/*cell*29/ULTI0/Z lte_163/*cell*29/ULTI2/A lte_163/*cell*29/ULTI2/Z B_18/A B_18/Z C2493/DATA2_0 C2493/Z_0 C2495/DATA2_0 C2495/Z_0 C2497/DATA1_0 C2497/Z_0 count_ready_reg[6]/enable count_ready_reg[6]/Q 
+Information: Timing loop detected. (OPT-150)
+	lte_163/*cell*29/UEQI/A lte_163/*cell*29/UEQI/Z lte_163/*cell*29/ULTI1/A lte_163/*cell*29/ULTI1/Z lte_163/*cell*29/ULTI2/B lte_163/*cell*29/ULTI2/Z B_18/A B_18/Z C2493/DATA2_0 C2493/Z_0 C2495/DATA2_0 C2495/Z_0 C2497/DATA1_0 C2497/Z_0 count_ready_reg[6]/enable count_ready_reg[6]/Q 
+Warning: Disabling timing arc between pins 'DATA1_0' and 'Z_0' on cell 'C2497'
+         to break a timing loop. (OPT-314)
+Warning: Disabling timing arc between pins 'DATA1_0' and 'Z_0' on cell 'i_fpu_div/C17726'
+         to break a timing loop. (OPT-314)
+ 
+****************************************
+Report : timing
+        -path full
+        -delay max
+        -max_paths 1
+        -transition_time
+        -capacitance
+Design : fpu_double
+Version: O-2018.06-SP5
+Date   : Fri Jan 29 18:38:43 2021
+****************************************
+
+ # A fanout number of 1000 was used for high fanout net computations.
+
+Operating Conditions: nom_pvt   Library: dw_foundation.sldb
+Wire Load Model Mode: top
+
+  Startpoint: op_enable_reg
+              (positive level-sensitive latch clocked by CLK)
+  Endpoint: add_enable_reg
+            (positive level-sensitive latch clocked by CLK)
+  Path Group: CLK
+  Path Type: max
+
+  Point                           Cap     Trans      Incr       Path
+  ---------------------------------------------------------------------
+  clock CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                        0.00       0.00
+  time given to startpoint                           0.80       0.80
+  op_enable_reg/data_in (**SEQGEN**)       0.00      0.00       0.80 r
+  op_enable_reg/Q (**SEQGEN**)
+                                 0.00      0.00      0.00       0.80 r
+  C2555/Z (GTECH_AND2)           0.00      0.00      0.00       0.80 r
+  C2486/Z_0 (*SELECT_OP_2.1_2.1_1)
+                                 0.00      0.00      0.00       0.80 r
+  add_enable_reg/data_in (**SEQGEN**)      0.00      0.00       0.80 r
+  data arrival time                                             0.80
+
+  clock CLK (rise edge)                              0.00       0.00
+  clock network delay (ideal)                        0.00       0.00
+  add_enable_reg/enable (**SEQGEN**)                 0.00       0.00 r
+  time borrowed from endpoint                        0.80       0.80
+  data required time                                            0.80
+  ---------------------------------------------------------------------
+  data required time                                            0.80
+  data arrival time                                            -0.80
+  ---------------------------------------------------------------------
+  slack (MET)                                                   0.00
+
+  Time Borrowing Information
+  ---------------------------------------------------------
+  CLK nominal pulse width                           50.00   
+  library setup time                                 0.00   
+  ---------------------------------------------------------
+  max time borrow                                   50.00   
+  actual time borrow                                 0.80   
+  ---------------------------------------------------------
+
+
+1
+Warning: Main library 'dw_foundation.sldb' does not specify the following units required for power: 'Leakage Power, Capacitance, Voltage, Time'. (PWR-424)
+Information: Propagating switching activity (low effort zero delay simulation). (PWR-6)
+Warning: Design has unannotated primary inputs. (PWR-414)
+Warning: Design has unannotated sequential cell outputs. (PWR-415)
+ 
+****************************************
+Report : power
+        -analysis_effort low
+Design : fpu_double
+Version: O-2018.06-SP5
+Date   : Fri Jan 29 18:38:44 2021
+****************************************
+
+
+Library(s) Used:
+
+    gtech (File: /CMC/tools/synopsys/syn_vO-2018.06-SP5/libraries/syn/gtech.db)
+
+
+Operating Conditions: nom_pvt   Library: dw_foundation.sldb
+Wire Load Model Mode: top
+
+
+Global Operating Voltage = 5    
+Power-specific unit information :
+    Voltage Units = Unitless
+    Capacitance Units = Unitless
+    Time Units = Unitless
+    Dynamic Power Units = Unitless    (derived from V,C,T units)
+    Leakage Power Units = Unitless
+
+
+  Cell Internal Power  =   0.0000     (0%)
+  Net Switching Power  =   0.0536   (100%)
+                         ---------
+Total Dynamic Power    =   0.0536   (100%)
+
+Cell Leakage Power     =   0.0000 
+
+Error: Either dynamic power or leakage power, in the library, is unitless. Unable to display complete power group summary. (PWR-799)
+
+                 Internal         Switching           Leakage            Total
+Power Group      Power            Power               Power              Power   (   %    )  Attrs
+--------------------------------------------------------------------------------------------------
+io_pad             0.0000            0.0000            0.0000               NA   (     N/A)
+memory             0.0000            0.0000            0.0000               NA   (     N/A)
+black_box          0.0000            0.0000            0.0000               NA   (     N/A)
+clock_network      0.0000            0.0000            0.0000               NA   (     N/A)
+register           0.0000        5.3577e-02            0.0000               NA   (     N/A)
+sequential         0.0000            0.0000            0.0000               NA   (     N/A)
+combinational      0.0000            0.0000            0.0000               NA   (     N/A)
+--------------------------------------------------------------------------------------------------
+Total              0.0000        5.3577e-02            0.0000               NA        
+1
